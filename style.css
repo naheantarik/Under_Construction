@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+img {
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+}
+
+.timer {
+  text-align: center;
+  padding-left: 50px;
+  color: rgb(74, 78, 88);
+}
